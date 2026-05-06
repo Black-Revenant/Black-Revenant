@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO IMAGE -->
-<img src="https://raw.githubusercontent.com/Black-Revenant/Black-Revenant/main/materials/assasian.jpg" width="100%" />
+<img src="materials/assasian.png" width="100%" />
 
 <!-- TITLE OVERLAY -->
 <h1 style="margin-top:-220px; font-size:52px; color:#ffffff; text-shadow: 0 0 25px rgba(0,0,0,0.9);">
