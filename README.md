@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Background Image -->
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/uwp5017165.jpg" width="100%" />
+<img src="uwp5017165.jpg" width="100%" />
 
 <!-- Overlay Text -->
 <h1 style="margin-top:-180px; color:#ffffff; font-size:48px;">
